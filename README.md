@@ -2,7 +2,7 @@
 ### Req 1 : İş Arayanlar sisteme kayıt olabilmelidir.
 Kayıt sırasında kullanıcıdan ad, soyad, tcno, doğum yılı, e-Posta, şifre, şifre tekrarı bilgileri istenir.
 
-Tüm alanlar zorunludur. Kullanıcı bilgilendirilir.
+* Tüm alanlar zorunludur. Kullanıcı bilgilendirilir.
 
 Mernis doğrulaması yapılarak sisteme kayıt gerçekleştirilir.
 
