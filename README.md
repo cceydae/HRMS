@@ -20,3 +20,6 @@ Kabul Kriterleri:
 * Tüm alanlar zorunludur. Kullanıcı bilgilendirilir.
 * Şirket kayıtları iki şekilde doğrulanır. Kayıdın gerçekleşmesi için e-posta doğrulaması gerekir. HRMS personelinin onayı gerekmektedir.
 * Daha önce kayıtlı bir e-posta var ise kayıt gerçekleşmez. Kullanıcı bilgilendirilir.
+## Req 3 : Sisteme genel iş pozisyonu isimleri eklenebilmelidir. Örneğin Software Developer, Software Architect.
+Kabul Kriterleri:
+* Bu pozisyonlar tekrar edemez. Kullanıcı uyarılır.
