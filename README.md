@@ -1,5 +1,5 @@
 # HRMS
-##Req 1 : İş Arayanlar sisteme kayıt olabilmelidir.
+## Req 1 : İş Arayanlar sisteme kayıt olabilmelidir.
 Kabul Kriterleri:
 
 Kayıt sırasında kullanıcıdan ad, soyad, tcno, doğum yılı, e-Posta, şifre, şifre tekrarı bilgileri istenir.
@@ -9,7 +9,7 @@ Doğrulama geçerli değilse kullanıcı bilgilendirilir.
 Daha önce kayıtlı bir e-posta veya tcno var ise kayıt gerçekleşmez. Kullanıcı bilgilendirilir.
 Kayıdın gerçekleşmesi için e-posta doğrulaması gerekir.
 
-##Req 2 : İş verenler sisteme kayıt olabilmelidir.
+## Req 2 : İş verenler sisteme kayıt olabilmelidir.
 
 Kabul Kriterleri:
 
