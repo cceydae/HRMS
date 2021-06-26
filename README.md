@@ -1,7 +1,5 @@
 # HRMS
 ### Req 1 : İş Arayanlar sisteme kayıt olabilmelidir.
-Kabul Kriterleri:
-
 Kayıt sırasında kullanıcıdan ad, soyad, tcno, doğum yılı, e-Posta, şifre, şifre tekrarı bilgileri istenir.
 
 Tüm alanlar zorunludur. Kullanıcı bilgilendirilir.
